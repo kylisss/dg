@@ -1,4 +1,7 @@
-
+ ---
+dg-home: false
+dg-publish: true
+---
 # Splatoon3
 ***
 ## 游戏视频
