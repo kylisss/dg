@@ -5,18 +5,23 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# 🌱 INIX - Kylis の 数字花园
+***
+hello👋，我是 Kylis，一个 To B 产品。
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+这里是我的「全开放式，努力每日更新」的[[数字花园]]，由原子化的[[卡片笔记]]编织而成。
+你可以通过点击[[双向链接]]，在花园中随意漫步。
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+它不算传统的博客，而更像是我思维的捕捉，所以笔记中亦会有些不成文的内容。另外，有些链接尚未存在，是因为我暂未创建 or 发布该笔记😂。
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+假如您有什么想和我聊聊的，欢迎联系：📨`ezewyz@outlook.com`
 
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+最后，奉上本站的[[🧭导览地图]] ⬇️。
+***
+## 效率
+[[Obsidian技巧]]
+[[PicGo]]
+## 生活
+[[菜谱]]
+## 游戏
+[[Splatoon3]]
