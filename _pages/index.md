@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# hello，我是 Kylis 👋
+# Hello，我是 Kylis 👋
 
 ***
 
