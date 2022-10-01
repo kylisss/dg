@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# hello👋，我是 Kylis，一个 To B 产品。
+# hello👋，我是 Kylis
 
 ***
 
