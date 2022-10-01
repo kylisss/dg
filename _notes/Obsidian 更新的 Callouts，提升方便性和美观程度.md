@@ -8,7 +8,6 @@ tag:
 - 剪藏
 summary: 
 ---
-# Obsidian 更新的 Callouts，提升方便性和美观程度
 
 > [!quote] 本文剪藏自[Obsidian更新的Callouts，提升方便性和美观程度 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/494647464)
 

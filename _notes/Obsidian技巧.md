@@ -2,7 +2,6 @@
 dg-publish: true
 dg-permalink: "/pages/Obsidian技巧/"
 ---
-# Obsidian技巧
 
 [Obsidian中文教程 - Obsidian Publish](https://publish.obsidian.md/chinesehelp/01+2021%E6%96%B0%E6%95%99%E7%A8%8B/2021%E5%B9%B4%E6%96%B0%E6%95%99%E7%A8%8B)
 
