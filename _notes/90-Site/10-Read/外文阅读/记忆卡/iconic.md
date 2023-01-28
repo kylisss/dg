@@ -1,0 +1,2 @@
+- 图标的、形象的；著名的、受欢迎的
+- He gained iconic status following his death. 他死后成了偶像级人物
