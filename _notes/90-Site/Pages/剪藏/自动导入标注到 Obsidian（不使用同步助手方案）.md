@@ -3,10 +3,9 @@ dg-publish: true
 dg-permalink: "/pages/cc-2022-09-13-172356/"
 url: https://zhuanlan.zhihu.com/p/501251603
 title: 自动导入标注到 Obsidian（不使用同步助手方案）
-date: 2022-09-13 17:23:56
+date: 2022-09-13
 tag: 
 - Obsidian技巧
-- 剪藏
 summary: 
 ---
 

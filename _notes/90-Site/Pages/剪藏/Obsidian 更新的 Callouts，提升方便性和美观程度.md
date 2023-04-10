@@ -3,9 +3,8 @@ dg-publish: true
 dg-permalink: "/pages/cc-2022-09-26-215713/"
 url: https://zhuanlan.zhihu.com/p/494647464
 title: Obsidian 更新的 Callouts，提升方便性和美观程度
-date: 2022-09-26 21:57:13
+date: 2022-09-26
 tag: 
-- 剪藏
 summary: 
 ---
 

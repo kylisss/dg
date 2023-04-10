@@ -1,5 +1,5 @@
 ---
-tag: 每日外文阅读
+tag: 外文阅读
 原文地址: https://cn.nytimes.com/china/20221227/china-covid-communist-party/dual/
 阅读日期: 2022-12-29
 开始时间: null

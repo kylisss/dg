@@ -3,8 +3,8 @@ dg-publish: true
 dg-permalink: "/pages/cc-2022-09-27-113615/"
 url: https://sspai.com/post/58223
 title: PicGo v2.2 更新，快捷键系统与一波插件推荐
-date: 2022-09-27 11:36:15
-tag: 剪藏
+date: 2022-09-27
+tag: 
 summary: 前言距离上次更新 (v2.1.2) 已经过去 8 个月了。
 ---
 

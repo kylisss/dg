@@ -1,9 +1,8 @@
 ---
 url: https://www.uncoverman.com/excalidraw-plguin-in-obsidian-support-font-custom.html
 title: Obsidian 的 Excalidraw 插件自定义中文字体
-date: 2022-09-14 14:21:23
+date: 2022-09-14
 tag: 
-- 剪藏
 summary: 重大更新 Obsidian 的 Excalidraw 是非常强大，是免费的手绘风格插件。
 ---
 ![](https://vip1.loli.io/2022/02/26/NBIYJu1AjEov72S.png)

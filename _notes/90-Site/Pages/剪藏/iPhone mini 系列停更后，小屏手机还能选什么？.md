@@ -2,10 +2,8 @@
 dg-publish: true
 url: https://sspai.com/post/75884
 title: iPhone mini 系列停更后，小屏手机还能选什么？
-date: 2022-09-27 13:44:38
+date: 2022-09-27
 tag: 
-- 剪藏
-- 
 summary: 我们在没得选的市场里选了这些，只能祝你快乐。
 ---
 
