@@ -1,2 +1,0 @@
-- 侵入的；闯入的；侵扰的；烦扰的：“too noticeable, direct, etc. in a way that is disturbing or annoying”
-	- The constant presence of the media was very intrusive. 媒体一直在场十分令人讨厌。

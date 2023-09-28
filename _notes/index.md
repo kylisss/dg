@@ -1,10 +1,6 @@
 ---
-dg-home: true
-dg-publish: true
-layout: page
-title: Home
-id: home
-permalink: /
+Tags:
+  - README
 ---
 
 # Hello，我是 Kylis 👋
@@ -18,21 +14,19 @@ permalink: /
 
 假如您有什么想和我聊聊的，欢迎联系：📨`ezewyz@outlook.com`
 
-最后，奉上本站的[[🧭导览地图]] ⬇️。
-
 ***
 
-## 学习
+> 以下是我正在关注或关注过的领域内容
 
-- [[外文阅读管理]] 
-- [[阅读管理]]
-- [[效率工具]]
-- [[AI]]
+## 说点什么
+-  [我的博客](https://eze.is)
 
-## 生活
+## 保持学习
+- [Obsidian技巧](Obsidian技巧/Obsidian技巧.md)
+- [AI 大模型](AI%20大模型/AI%20大模型.md)
 
--  [[菜谱]]
+## 好好生活
+-  [菜谱](菜谱/菜谱.md)
 
-## 游戏
-
--  [[Splatoon3]]
+## 享受娱乐
+-  [Splatoon3](Splatoon3.md)

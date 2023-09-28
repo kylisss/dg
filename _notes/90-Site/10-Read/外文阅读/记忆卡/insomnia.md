@@ -1,3 +1,0 @@
-- /ɪnˈsɒmnɪə/ 
-- 失眠（症）：“the condition of being unable to sleep, over a period of time”
-	- He suffered from insomnia caused by stress at work. 他因为工作压力失眠了好几个月。

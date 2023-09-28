@@ -1,3 +1,0 @@
-- 完好无损；完整  “ complete and not damaged”
-	- Most of the house remains intact even after two hundred years. 虽然过了两百年，这房子的大部分还保持完好。
-	- He emerged from the trial with his reputation intact. 他受审获释，名誉丝毫未受损害

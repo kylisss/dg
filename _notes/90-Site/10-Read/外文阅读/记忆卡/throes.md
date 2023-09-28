@@ -1,2 +1,0 @@
-- 处于…的困境之中；处于…的苦难中；处于…的动荡时期：“experiencing or doing something that is difficult, unpleasant, or painful”
-	- He's in the throes of a mid-life crisis that makes him pretty hard to live with. 他正处于中年危机的痛苦时期，很难与他一起生活。

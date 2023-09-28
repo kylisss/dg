@@ -1,3 +1,0 @@
-- 破坏性极强的: “If you describe something as devastating, you are emphasizing that it is very harmful or damaging.”
-- 令人震惊的: “You can use devastating to emphasize that something is very shocking, upsetting, or terrible.”
-	- The diagnosis was devastating. She had cancer. 诊断结果令人震惊。她得了癌症。
