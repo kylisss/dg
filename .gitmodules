@@ -1,3 +1,4 @@
 [submodule "_notes"]
 	path = _notes
 	url = https://github.com/kylisss/Eden.git
+	exclude = Journal, Project, .obsidian
